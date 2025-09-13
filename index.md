@@ -16,5 +16,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Anda Ingin Bijak Baca Buku Ini](ebook/Anda Ingin Bijak Baca Buku Ini.pdf) - H. Obsatar Sinaga
 (2012)
 10. [33 Inspirasi Rumah Muslim ](ebook/33 Inspirasi Rumah Muslim.pdf) - Gatut Susanta (2008)
+11. [Ringkasan materi tentang VR](ebook/Ringkasan materi tentang VR.pdf) - Angga Kurniawan 13040123140084
     
 *Powered by GitHub Pages*
