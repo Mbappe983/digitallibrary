@@ -12,4 +12,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [Malam Terakhir](ebook/Malam Terakhir.pdf) - Leila S. Chudori (1989)
 6. [KKN di Desa Penari](ebook/KKN di Desa Penari.pdf) - SIMPLEMAN (2019)
 7. [Hujan Tere Liye](ebook/Hujan Tere Liye.pdf) - Tereliye (2016)
+8. [Apa yang Kita Pikirkan Ketika Kita Sendirian](ebook/Apa yang Kita Pikirkan Ketika Kita Sendirian.pdf) - Desi Anwar (2020)
 *Powered by GitHub Pages*
