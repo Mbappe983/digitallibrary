@@ -13,4 +13,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [KKN di Desa Penari](ebook/KKN di Desa Penari.pdf) - SIMPLEMAN (2019)
 7. [Hujan Tere Liye](ebook/Hujan Tere Liye.pdf) - Tereliye (2016)
 8. [Apa yang Kita Pikirkan Ketika Kita Sendirian](ebook/Apa yang Kita Pikirkan Ketika Kita Sendirian.pdf) - Desi Anwar (2020)
+9. [Anda Ingin Bijak Baca Buku Ini](ebook/Anda Ingin Bijak Baca Buku Ini.pdf) - H. Obsatar Sinaga
+(2012)
 *Powered by GitHub Pages*
