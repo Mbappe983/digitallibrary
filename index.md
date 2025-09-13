@@ -8,5 +8,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 1. [kedai coffee](ebook/(Angga Kurniawan_13040123140084).pdf) - Johan dkk (2024)
 2. [Perahu Kertas](ebook/Perahu Kertas.pdf) - Dewi Lestari (2009)
 3. [My Stupid Boss](ebook/My Stupid Boss.pdf) - Chaos@work (2010)
-
+4. [My Stupid Boss -01](ebook/My Stupid Boss -01.pdf) - Chaos@work (2010)
 *Powered by GitHub Pages*
