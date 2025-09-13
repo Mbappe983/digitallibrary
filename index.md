@@ -11,4 +11,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 4. [My Stupid Boss -01](ebook/My Stupid Boss -01.pdf) - Chaos@work (2010)
 5. [Malam Terakhir](ebook/Malam Terakhir.pdf) - Leila S. Chudori (1989)
 6. [KKN di Desa Penari](ebook/KKN di Desa Penari.pdf) - SIMPLEMAN (2019)
+7. [Hujan Tere Liye](ebook/Hujan Tere Liye.pdf) - Tereliye (2016)
 *Powered by GitHub Pages*
