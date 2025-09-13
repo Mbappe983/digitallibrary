@@ -15,4 +15,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Apa yang Kita Pikirkan Ketika Kita Sendirian](ebook/Apa yang Kita Pikirkan Ketika Kita Sendirian.pdf) - Desi Anwar (2020)
 9. [Anda Ingin Bijak Baca Buku Ini](ebook/Anda Ingin Bijak Baca Buku Ini.pdf) - H. Obsatar Sinaga
 (2012)
+10. [33 Inspirasi Rumah Muslim ](ebook/33 Inspirasi Rumah Muslim.pdf) - Gatut Susanta (2008)
+    
 *Powered by GitHub Pages*
