@@ -20,4 +20,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 ----
 12. [link](webti/halaman1.html) - bos
 13. [link](webti/halaman5.html) - bos
+14. [link](webti/halaman6.html - bos
+    
 *Powered by GitHub Pages*
