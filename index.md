@@ -17,6 +17,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 (2012)
 10. [33 Inspirasi Rumah Muslim ](ebook/33 Inspirasi Rumah Muslim.pdf) - Gatut Susanta (2008)
 11. [Ringkasan materi tentang VR](ebook/Ringkasan materi tentang VR.pdf) - Angga Kurniawan 13040123140084
-12. [link](halaman1html) - lol
+12. [link](halaman1.html) - lol
 
 *Powered by GitHub Pages*
